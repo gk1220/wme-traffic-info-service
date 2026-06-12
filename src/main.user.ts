@@ -202,7 +202,7 @@ async function main(): Promise<void> {
         },
     });
 
-    console.log('[TIS] WME Traffic Info Service v2026.06.12.00 ready.');
+    console.log('[TIS] WME Traffic Info Service v2026.06.12.01 ready.');
 }
 
 // Run

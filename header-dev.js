@@ -2,12 +2,14 @@
 // @name        WME Traffic Info Service
 // @name:de     WME Traffic Info Service
 // @namespace   https://github.com/gk1220
-// @version     2026.06.12.00
-// @description Overlays Austrian traffic advisories (Baustellen & Sperren) from the official TIS directly on the WME map. All 9 Austrian states supported.
-// @description:de Zeigt österreichische Verkehrsmeldungen (Baustellen & Sperren) aus dem TIS direkt auf der WME-Karte. Alle 9 Bundesländer werden unterstützt.
+// @version     2026.06.12.01
+// @description Overlays Austrian traffic advisories (Baustellen & Sperren) from the official TIS directly on the WME map
+// @description:de Zeigt österreichische Verkehrsmeldungen (Baustellen & Sperren) aus dem TIS direkt auf der WME-Karte
 // @author      Gerhard (g1220k)
 // @homepageURL https://github.com/gk1220/wme-traffic-info-service
 // @supportURL  https://github.com/gk1220/wme-traffic-info-service/issues
+// @downloadURL https://update.greasyfork.org/scripts/582426/WME%20Traffic%20Info%20Service.user.js
+// @updateURL https://update.greasyfork.org/scripts/582426/WME%20Traffic%20Info%20Service.meta.js
 // @updateURL
 // @downloadURL
 // @match       https://www.waze.com/editor*

@@ -5,7 +5,7 @@ import { WmeSDK } from 'wme-sdk-typings';
 import { TISSettings, StateInfo } from '../core/types';
 import { REPORT_ICON } from '../utils/icons';
 
-const SCRIPT_VERSION = '2026.06.12.00';
+const SCRIPT_VERSION = '2026.06.12.01';
 
 export interface TabCallbacks {
     onStateToggle: (stateAbv: string, enabled: boolean) => void;

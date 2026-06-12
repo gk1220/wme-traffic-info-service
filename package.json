@@ -1,5 +1,5 @@
 {
-  "version": "2026.06.12.00",
+  "version": "2026.06.12.01",
   "name": "WME Traffic Info Service",
   "devDependencies": {
     "@rollup/plugin-typescript": "^12.1.0",
