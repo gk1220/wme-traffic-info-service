@@ -2,7 +2,7 @@
 
 Ein [Tampermonkey](https://www.tampermonkey.net/) Userscript für den [Waze Map Editor (WME)](https://www.waze.com/editor), das österreichische Verkehrsmeldungen (TIS – Traffic Info Service) direkt auf der WME-Karte einblendet.
 
-> **Version:** 2026.06.12.00  
+> **Version:** 2026.06.12.01  
 > **Autor:** Gerhard (g1220k)  
 > **Lizenz:** GPL-3.0  
 

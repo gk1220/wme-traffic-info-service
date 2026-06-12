@@ -10,8 +10,6 @@
 // @supportURL  https://github.com/gk1220/wme-traffic-info-service/issues
 // @downloadURL https://update.greasyfork.org/scripts/582426/WME%20Traffic%20Info%20Service.user.js
 // @updateURL https://update.greasyfork.org/scripts/582426/WME%20Traffic%20Info%20Service.meta.js
-// @updateURL
-// @downloadURL
 // @match       https://www.waze.com/editor*
 // @match       https://beta.waze.com/editor*
 // @match       https://www.waze.com/*/editor*
